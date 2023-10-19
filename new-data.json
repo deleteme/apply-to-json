@@ -1,0 +1,6 @@
+{
+  "hi": "ok",
+  "wave": {
+    "scripts": "echo 'hello world'"
+  }
+}
